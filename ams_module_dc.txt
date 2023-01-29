@@ -1,0 +1,19 @@
+The following C programming concepts are used in the Army Management System project:
+
+Functions: Functions are used to structure the program and to divide it into smaller and more manageable parts. Functions are used to encapsulate the code for each module of the system, such as the personnel management, inventory management, and logistics management modules.
+
+Arrays: Arrays are used to store information about military personnel, weapons, equipment, and supplies. For example, an array could be used to store the names and ranks of military personnel.
+
+Structures: Structures are used to store complex data types, such as information about military personnel. A structure could be used to store the name, rank, and contact information of a military personnel.
+
+File I/O: File I/O is used to store data persistently. The data stored in the system, such as information about military personnel, weapons, equipment, and supplies, is saved to disk using file I/O.
+
+Pointers: Pointers are used to dynamically allocate memory for data structures, such as arrays and structures. Pointers are also used to pass information between functions.
+
+Loops: Loops are used to process arrays and other data structures. For example, a loop could be used to iterate through an array of military personnel to display their information.
+
+Conditionals: Conditionals are used to control the flow of the program based on user input or other conditions. For example, a conditional could be used to determine whether to add, edit, or delete information about a military personnel.
+
+String Manipulation: String manipulation is used to process and manipulate strings of text, such as the names of military personnel or the contents of messages.
+
+These concepts are essential building blocks for solving the Army Management System project and provide a solid foundation for developing software applications in C.

@@ -1,0 +1,23 @@
+Army Management System Project Report
+
+Introduction:
+The Army Management System is a software application designed to support the administrative and operational activities of a military organization. The system is designed to manage various aspects of the organization's activities, including personnel management, inventory management, logistics management, communication, and reporting.
+
+Personnel Management:
+The personnel management module of the Army Management System allows the user to add, edit, and delete information about military personnel, including their name, rank, and contact information. The module provides a user-friendly interface for adding, editing, and viewing personnel information, and it is designed to meet the specific requirements of a military organization.
+
+Inventory Management:
+The inventory management module of the Army Management System allows the user to track and manage the army's inventory, including weapons, equipment, and supplies. The module provides a comprehensive and easy-to-use interface for managing the army's inventory, and it is designed to meet the specific requirements of a military organization.
+
+Logistics Management:
+The logistics management module of the Army Management System allows the user to manage and track the movement of personnel and equipment, as well as plan and execute operations. The module provides a comprehensive and easy-to-use interface for managing logistics operations, and it is designed to meet the specific requirements of a military organization.
+
+Communication:
+The communication module of the Army Management System allows military personnel to send and receive messages, including text, voice, and video. The module provides a user-friendly interface for sending and receiving messages, and it is designed to meet the specific requirements of a military organization.
+
+Reporting:
+The reporting module of the Army Management System generates various reports, such as personnel reports, inventory reports, and logistics reports. The module provides a comprehensive and easy-to-use interface for generating reports, and it is designed to meet the specific requirements of a military organization.
+
+Conclusion:
+The Army Management System is a comprehensive software application designed to support the administrative and operational activities of a military organization. The system is designed to meet the specific requirements of a military organization and provides a user-friendly interface for managing personnel, inventory, logistics, communication, and reporting activities. The system is built using the C programming language and can be easily customized to meet the changing needs of the organization.
+    THIS PROJECT IS CREATED BY AMIT KUMAR BIOSYI 
