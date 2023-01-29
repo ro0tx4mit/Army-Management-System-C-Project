@@ -1,10 +1,12 @@
 # Army-Management-System-C-Project
 "Streamlining Army Operations with a Comprehensive Management System"
+
 Hello Viewer , Myself Amit Kumar Bisoyi nice to see you .
 
 This Army Management System is a comprehensive software solution designed to streamline army operations and improve efficiency. The system provides modules for personnel management, inventory management, logistics management, communication management, and reporting.
 
 Features
+
 Main Menu: A main menu that allows the user to access different modules of the system, such as personnel management, inventory management, and logistics management.
 
 Personnel Management: A personnel management module that allows the user to add, edit, and delete information about military personnel, including their name, rank, and contact information.
